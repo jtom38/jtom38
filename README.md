@@ -12,14 +12,19 @@ class aboutMe():
             'powershell',
             'csharp',
             'javascript'
-            ]
+        ]
         self.tools: List[str] = [
             'ansible',
             'terraform',
             'packer',
             'docker',
             'flask',
-            ]
+            'jenkins'
+        ]
+        self.currentProjects: List[str] = [
+            'newsbot',
+            'ansible'
+        ]
 ```
 
 
