@@ -1,32 +1,8 @@
+## Hello! 👋
 
-### Hi there 👋
+I am currently focusing on `Go` and using it to build out automation or applications.
 
-
-```python
-class aboutMe():
-    def __init__(self) -> None:
-        self.title: str = 'DevOps Engineer'
-        self.description: str = "I am a self taught developer always looking to a way to automate my next task!"
-        self.languages: List[str] = [
-            'python',
-            'powershell',
-            'csharp',
-            'javascript'
-        ]
-        self.tools: List[str] = [
-            'ansible',
-            'terraform',
-            'packer',
-            'docker',
-            'flask',
-            'jenkins'
-        ]
-        self.currentProjects: List[str] = [
-            'newsbot',
-            'ansible'
-        ]
-```
-
+I am spending my time building out my dream project `Newsbot`.  Take a look at it if you want to learn more.
 
 <!--
 **luther38/luther38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
