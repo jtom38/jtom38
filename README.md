@@ -7,6 +7,8 @@ I am spending my time building out my dream project `Newsbot`.  Take a look at i
 - Newsbot = Passion project to improve the personalized news feed. 
 - [dvb](https://github.com/jtom38/dvb) = Go tool to backup docker images.  Used in my homelab.
 
+[![My Skills](https://skillicons.dev/icons?i=go,cs,docker,dotnet,html,css,python,powershell,ansible)](https://skillicons.dev)
+
 <!--
 **luther38/luther38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
