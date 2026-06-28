@@ -1,11 +1,6 @@
 ## Hello! 👋
 
-I am currently focusing on `dotnet` and `go` and using it to build out automation or applications.
-
-I am spending my time building out my dream project `Newsbot`.  Take a look at it if you want to learn more.
-
-- Newsbot = Passion project to improve the personalized news feed. 
-- [dvb](https://github.com/jtom38/dvb) = Go tool to backup docker images.  Used in my homelab.
+I am no longer active on GitHub as all my code going forward is on my personal git server.
 
 [![My Skills](https://skillicons.dev/icons?i=go,cs,docker,dotnet,html,css,python,powershell,ansible)](https://skillicons.dev)
 
